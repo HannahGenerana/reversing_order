@@ -4,6 +4,7 @@
 # pseudocode
 
 # ask the user to input a integer
+random_number = input("Kindly input any random number: ")
 
 # create a function
 
