@@ -7,9 +7,13 @@
 random_number = input("Kindly input any random number: ")
 
 # create a function
+def reverse_order (digits):
 
 # string the parameter to reverse its order
+    reverse_digits = str(digits[::-1])
 
 # create a loop for spacing
+    for i in reverse_digits:
+        print (i, end=" ")
 
 # print the reverse order of the integer
