@@ -17,3 +17,4 @@ def reverse_order (digits):
         print (i, end=" ")
 
 # print the reverse order of the integer
+reverse_order(random_number)
